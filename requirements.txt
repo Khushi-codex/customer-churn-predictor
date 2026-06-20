@@ -8,3 +8,4 @@ pydantic
 matplotlib
 seaborn
 jupyter
+streamlit
