@@ -2,7 +2,7 @@
 
 Predicts whether a telecom customer will churn using Machine Learning — served as a live REST API.
 
-🔴 **Live API:** https://customer-churn-predictor-cwzx.onrender.com/docs  
+🔴 **Live API:** https://customer-churn-predictor-cwzx.onrender.com  
 📂 **GitHub:** https://github.com/Khushi-codex/customer-churn-predictor
 
 ---
